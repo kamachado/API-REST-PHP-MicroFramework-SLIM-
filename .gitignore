@@ -1,0 +1,4 @@
+*.log
+config.php
+vendor/
+nbproject/
